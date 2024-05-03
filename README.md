@@ -4,7 +4,7 @@
 ## This is a basic todo app you can use on your server
 
 ## Installation
-# Set up your .env file
+### Set up your .env file
 
 ```bash
 $ php artisan migrate --seed
