@@ -5,6 +5,9 @@
 
 ## Installation
 ### Set up your .env file
+```bash
+$ composer install
+```
 
 ```bash
 $ php artisan migrate --seed
